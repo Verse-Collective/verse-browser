@@ -71,6 +71,10 @@ Builds do not update themselves yet. Once they do, the browser will fetch a sign
 
 Open an [issue](../../issues). For a bug, include the version from `verse://settings`, section "About Verse", and the steps that lead to it.
 
+## Authors
+
+Verse is made by [GlouFom](https://github.com/GlouFom) and [TheNeriz](https://github.com/TheNeriz).
+
 ## Licenses
 
 Verse uses Chromium and other open-source components. Their licenses and authors are listed at `verse://credits`.

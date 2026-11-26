@@ -71,6 +71,10 @@ Verse не собирает статистику и не отправляет о
 
 Пишите в [Issues](../../issues). Для ошибки укажите версию из `verse://settings`, раздел «О Verse», и шаги, после которых она появляется.
 
+## Авторы
+
+Verse делают [GlouFom](https://github.com/GlouFom) и [TheNeriz](https://github.com/TheNeriz).
+
 ## Лицензии
 
 Verse использует Chromium и другие открытые компоненты. Их лицензии и авторы перечислены на странице `verse://credits`.
