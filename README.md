@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest">Скачать для Windows</a>
+  <a href="../../releases">Релизы</a> (публичных сборок пока нет)
   &nbsp;·&nbsp;
   <a href="README.en.md">English</a>
 </p>

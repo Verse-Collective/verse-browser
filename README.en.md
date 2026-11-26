@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest">Download for Windows</a>
+  <a href="../../releases">Releases</a> (no public builds yet)
   &nbsp;·&nbsp;
   <a href="README.md">Русский</a>
 </p>
